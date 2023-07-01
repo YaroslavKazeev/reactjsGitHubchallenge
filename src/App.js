@@ -21,8 +21,8 @@ class App extends Component {
   }
 
   serviceParams = new URLSearchParams({
-    client_id: 'ab0d77f59862027a6f4a',
-    client_secret: '9be580c3d61d0f200572245a3426e97fc1709918'
+    client_id: 'x',
+    client_secret: 'x'
   })
   
   getUserInfo = () => {
